@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;500&display=swap');
+
+ul.no-p a{
+    padding: 0.1rem 1rem;
+}
+
+.nav-link{
+    color: blanchedalmond;
+    font-family: 'Open Sans', sans-serif;
+}
